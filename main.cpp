@@ -1,7 +1,7 @@
 #include <iostream>
 
 constexpr int N_ELEMENTS = 100;
-
+// Komment a forrásfájlban
 int main() {
   int *b = new int[N_ELEMENTS];
   // int osszeg = 0;
